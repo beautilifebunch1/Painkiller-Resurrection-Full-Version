@@ -240,4 +240,4 @@ This repository serves as the official landing page for Painkiller: Resurrection
 **Get the most recent version of Painkiller: Resurrection today!**
 
 ---
-**Last updated:** 2026-09-10 14:47:04 UTC
+**Last updated:** 2026-09-10 18:03:20 UTC
